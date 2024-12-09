@@ -46,7 +46,9 @@ If the graph should be generated based on the benchmark, press 'y'; otherwise pr
 <br/>
 ## References
 [1] M. Samadi, S. Royuela, L. M. Pinho, T. Carvalho, and E. Quiñones, "Time-Predictable Task-to-Thread Mapping in Multi-Core Processors," Journal of Systems Architecture, vol. 148, Article ID 103068, March 2024.
+<br/>
 [2] Barcelona Supercomputing Center, "BSC LLVM," November 2024. https://gitlab.bsc.es/ampere-sw/wp2/llvm/
+<br/>
 [3] Barcelona Supercomputing Center, "Extrae," November 2024. https://tools.bsc.es/extrae/
 <br/>
 [4] Innovative Computing Laboratory, University of Tennessee, "Performance Application Programming Interface, PAPI," November 2024. https://icl.utk.edu/papi/index.html/
